@@ -8,3 +8,12 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+#summary {
+  color: purple;
+  font-size: 96px;
+}
+
+.awesome {
+  color: orange;
+  font-size: 36px;
+}
